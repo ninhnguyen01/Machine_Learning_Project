@@ -1,2 +1,2 @@
 # Machine_Learning_Project
-Machine learning is about creating computer programs that can learn from data.
+An ML Engineer focuses on building, deploying, and maintaining machine learning systems in production.
